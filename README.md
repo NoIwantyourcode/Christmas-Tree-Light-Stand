@@ -29,3 +29,5 @@ The Christmas tree lightstand uses 2 PCBs, The Christmas tree shaped PCB contain
 <img width="2876" height="1722" alt="Screenshot 2026-01-01 180505" src="https://github.com/user-attachments/assets/cf102ed5-4e02-4e2c-9c46-ca87a1a51867" />
 
 <img width="2876" height="1626" alt="Screenshot 2026-01-01 180204" src="https://github.com/user-attachments/assets/175d478e-d067-4730-87d7-c5b559b6d91c" />
+
+<img width="460" height="362" alt="Screenshot 2026-01-01 180119" src="https://github.com/user-attachments/assets/62612943-f43f-4913-b420-962647b09f34" />
