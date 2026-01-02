@@ -10,9 +10,9 @@ Below are some pictures of the PCB, Rendered PCB, case, Schematics and a fully a
 # PCB
 The Christmas tree lightstand uses 2 PCBs, The Christmas tree shaped PCB contains all the LEDs and is very big (about 300mm tall) and the smaller but also important pcb as it handles the timing of the flashing LEDs and power
 
-<img width="723" height="1178" alt="Screenshot 2026-01-01 165403" src="https://github.com/user-attachments/assets/d6f63879-1c27-4280-ba82-cf02114b22d5" />
+<img width="335" height="362" alt="Screenshot 2026-01-02 133706" src="https://github.com/user-attachments/assets/f772b280-a27d-415e-9f8f-d0772a0d464c" />
 
-<img width="1715" height="1182" alt="Screenshot 2026-01-01 165617" src="https://github.com/user-attachments/assets/bd9c9dd7-177b-451d-bff0-e04ed848fb52" />
+<img width="2401" height="1546" alt="Screenshot 2026-01-02 130936" src="https://github.com/user-attachments/assets/969109b4-b395-4adb-91d2-ed0dc2e26448" />
 
 # Rendered PCB
 
