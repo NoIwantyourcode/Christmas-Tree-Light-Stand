@@ -5,18 +5,19 @@ and yes to any reviewer wondering, I am aiming for that shiny new Bambu labs A1 
 Below are some pictures of the PCB, Rendered PCB, case, Schematics and a fully assembled view
 
 # Schematics
+
 <img width="1853" height="1308" alt="Screenshot 2026-01-01 121408" src="https://github.com/user-attachments/assets/548228d0-59d8-4146-9fc9-a847b0a59e4c" />
 
 # PCB
-The Christmas tree lightstand uses 2 PCBs, The Christmas tree shaped PCB contains all the LEDs and is very big (about 300mm tall) and the smaller but also important pcb as it handles the timing of the flashing LEDs and power
+The Christmas tree lightstand uses 2 PCBs, The Christmas tree shaped PCB contains all the LEDs and the smaller but also important pcb as it handles the timing of the flashing LEDs and power
 
 <img width="335" height="362" alt="Screenshot 2026-01-02 133706" src="https://github.com/user-attachments/assets/f772b280-a27d-415e-9f8f-d0772a0d464c" />
 
-<img width="2401" height="1546" alt="Screenshot 2026-01-02 130936" src="https://github.com/user-attachments/assets/969109b4-b395-4adb-91d2-ed0dc2e26448" />
+<img width="910" height="987" alt="Screenshot 2026-01-02 200515" src="https://github.com/user-attachments/assets/608301f1-21b5-48b9-a381-09683b9dbb8b" />
 
 # Rendered PCB
 
-<img width="1635" height="943" alt="Screenshot 2026-01-01 174247" src="https://github.com/user-attachments/assets/17fff50c-7c30-4ded-b4ff-89ca4b515e6b" />
+<img width="1089" height="797" alt="image" src="https://github.com/user-attachments/assets/053e5eeb-9df3-405d-95a1-b7ee2aaf8966" />
 
 <img width="1597" height="895" alt="Screenshot 2026-01-01 173849" src="https://github.com/user-attachments/assets/5b249657-afff-4d98-96be-2cf9645a07b3" />
 
@@ -26,8 +27,6 @@ The Christmas tree lightstand uses 2 PCBs, The Christmas tree shaped PCB contain
 
 # fully assembled view
 
-<img width="2876" height="1722" alt="Screenshot 2026-01-01 180505" src="https://github.com/user-attachments/assets/cf102ed5-4e02-4e2c-9c46-ca87a1a51867" />
-
-<img width="2876" height="1626" alt="Screenshot 2026-01-01 180204" src="https://github.com/user-attachments/assets/175d478e-d067-4730-87d7-c5b559b6d91c" />
+<img width="2879" height="1650" alt="image" src="https://github.com/user-attachments/assets/70769247-d3ee-4cb4-b651-77bc1e233d41" />
 
 <img width="460" height="362" alt="Screenshot 2026-01-01 180119" src="https://github.com/user-attachments/assets/62612943-f43f-4913-b420-962647b09f34" />
