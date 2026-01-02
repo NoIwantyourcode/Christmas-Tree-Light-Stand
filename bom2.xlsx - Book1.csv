@@ -1,0 +1,12 @@
+Components,Components,Components,Components,Components,Components
+LEDS (Red),"G1, G2… G10",10,https://www.digikey.sg/en/products/detail/w%C3%BCrth-elektronik/151051RS11000/4490012,0.21,2.1
+LEDS (Green),"G11, G12… G20",10,https://www.digikey.sg/en/products/detail/marktech-optoelectronics/MT2118-G-A/4214619,0.238,2.38
+Resistors (1Kohm),R1,1,https://www.digikey.sg/en/products/detail/stackpole-electronics-inc/CF14JT1K00/1741314,0.14,0.14
+Resistors (220ohm),"R2, R3",2,https://www.digikey.sg/en/products/detail/stackpole-electronics-inc/CF14JT220R/1741346,0.14,0.28
+Battery (9V),BT1,1,https://www.digikey.sg/en/products/detail/panasonic-energy/6LF22XWA-B/5067196,3.23,3.23
+LM555N,U1,1,https://www.digikey.sg/en/products/detail/texas-instruments/LM555CN-NOPB/6575,1.67,1.67
+Switch,SW1,1,https://www.digikey.sg/en/products/detail/e-switch/RA11131121/2720267,0.99,0.99
+9V Battery plug,BT1,1,https://www.digikey.sg/en/products/detail/keystone-electronics/232/303804,0.82,0.82
+Potentiometer,,1,https://www.digikey.sg/en/products/detail/bourns-inc/3362P-1-103LF/1088412,1.27,1.27
+,,,,Total,11.61
+,,,,Total+Shipping+GST,40.2
