@@ -1,0 +1,15 @@
+Components,Designators,Quantity,Links,Unit price,Final price
+LEDS (Red),"G1, G2… G10",10,https://www.digikey.sg/en/products/detail/w%C3%BCrth-elektronik/151051RS11000/4490012,0.21,2.1
+LEDS (Green),"G11, G12… G20",10,https://www.digikey.sg/en/products/detail/marktech-optoelectronics/MT2118-G-A/4214619,0.238,2.38
+Resistors (1Kohm),R1,1,https://www.digikey.sg/en/products/detail/stackpole-electronics-inc/CF14JT1K00/1741314,0.14,0.14
+Resistors (220ohm),"R2, R3",2,https://www.digikey.sg/en/products/detail/stackpole-electronics-inc/CF14JT220R/1741346,0.14,0.28
+Battery (9V),BT1,1,https://www.digikey.sg/en/products/detail/panasonic-energy/6LF22XWA-B/5067196,3.23,3.23
+LM555N,U1,1,https://www.digikey.sg/en/products/detail/texas-instruments/LM555CN-NOPB/6575,1.67,1.67
+Switch,SW1,1,https://www.digikey.sg/en/products/detail/e-switch/RA11131121/2720267,0.99,0.99
+9V Battery plug,BT1,1,https://www.digikey.sg/en/products/detail/keystone-electronics/232/303804,0.82,0.82
+Potentiometer,,1,https://www.digikey.sg/en/products/detail/bourns-inc/3362P-1-103LF/1088412,1.27,1.27
+2-layer pcb,,2,-,2+4,6
+ Capacitor (10uF),C1,10,https://www.lazada.sg/products/pdp-i1914780306-s10235809141.html?c=&channelLpJumpArgs=&clickTrackInfo=query%253A10uf%252Bcapacitor%253Bnid%253A1914780306%253Bsrc%253ALazadaMainSrp%253Brn%253Adbd3779dbe5f0bc61a37949e23487728%253Bregion%253Asg%253Bsku%253A1914780306_SGAMZ%253Bprice%253A1.87%253Bclient%253Adesktop%253Bsupplier_id%253A1143096012%253Bsession_id%253A%253Bbiz_source%253Ahttps%253A%252F%252Fwww.lazada.sg%252F%253Bslot%253A0%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10000489%253Bitem_id%253A1914780306%253Bsku_id%253A10235809141%253Bshop_id%253A1260904%253BtemplateInfo%253A-1_A3_C%25231120_L%2523107878_E%2523&freeshipping=1&fs_ab=2&fuse_fs=&lang=en&location=China&price=1.87&priceCompare=skuId%3A10235809141%3Bsource%3Alazada-search-voucher%3Bsn%3Adbd3779dbe5f0bc61a37949e23487728%3BoriginPrice%3A187%3BdisplayPrice%3A187%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1767952599712&ratingscore=5.0&request_id=dbd3779dbe5f0bc61a37949e23487728&review=9&sale=3&search=1&source=search&spm=a2o42.searchlist.list.0&stock=1,0.178,1.78
+,,,,Total,19.66
+,,,,Total+Shipping+GST,51.27
+,,,,In USD,39.84
